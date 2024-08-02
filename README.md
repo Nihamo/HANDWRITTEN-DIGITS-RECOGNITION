@@ -4,10 +4,7 @@ This project focuses on image processing with a model specifically trained for h
 The model is trained using the MNIST dataset, a widely recognized benchmark for handwritten digit recognition. This dataset provides a robust foundation for evaluating the model's ability to classify digit images accurately.
 
 ## TECHNOLOGIES USED
--> Python
-
--> Numpy
-
--> Tensorflow
-
--> Convolutional Neural Networks(CNNs) as model's architecture
+- Python
+- Numpy
+- Tensorflow
+- Convolutional Neural Networks(CNNs) as model's architecture
